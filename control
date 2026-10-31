@@ -1,0 +1,9 @@
+Package: com.noname122021.languageiconsfix
+Name: LanguageIconsFix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Automatically refreshes icon caches via uicache after system language change on iOS 6.
+Maintainer: noname122021
+Author: noname122021
+Section: Tweaks
+Depends: mobilesubstrate
